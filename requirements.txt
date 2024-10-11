@@ -1,4 +1,7 @@
 torch
 transformers
+accelerate
+datasets
+scikit-learn
 matplotlib
 jupyter
